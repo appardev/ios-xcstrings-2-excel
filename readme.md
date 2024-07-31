@@ -1,4 +1,4 @@
-# Localization to Excel Converter
+# iOS Localization to Excel Converter
 
 This project is designed to convert localization strings from a JSON file (`Localizable.xcstrings`) into an Excel file. The generated Excel file will contain the localization keys and their corresponding translations for different languages.
 
