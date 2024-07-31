@@ -12,7 +12,7 @@ This project is designed to convert localization strings from a JSON file (`Loca
 ## Requirements
 
 - Python 3.x
-- pandas library
+- `pip install -r requirements.txt`
 
 ## Setup
 
